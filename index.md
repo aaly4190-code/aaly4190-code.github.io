@@ -17,4 +17,4 @@ This site is powered by GitHub Pages and Jekyll 🚀
 - [Refrences](ref.md)
 - [About](about.md)
 - [Support](support.md)
-- [My company](mycompany.md)
+- [My company](MyCompany.md)
