@@ -5,7 +5,7 @@ title: Home
 
 # Hello 👋
 
-Welcome to my Website New
+Welcome to my Website
 
 *Abdallah Mohamed from Orange Business*
 
