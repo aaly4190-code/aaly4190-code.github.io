@@ -1,7 +1,7 @@
 ---
 layout: page
 title: MyCompany
-permalink: /about/
+permalink: /company/
 ---
 
 # Company
